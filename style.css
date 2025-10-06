@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#description {
+    font-size: 45px;
+}
+.description {
+    float: right; /* This is the new CSS property that positions something and wraps text around it */
+}
+.favorites p {
+    font-size: 25px;
+}
+.more {
+    text-decoration: underline;
+}
+.menu {
+    font-weight: bold;
+}
+#reviews {
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
